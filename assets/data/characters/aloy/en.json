@@ -1,7 +1,9 @@
 {
   "name": "Aloy",
+  "title": "Savior From Another World",
   "vision": "Cryo",
   "weapon": "Bow",
+  "gender": "Female",
   "nation": "Unknown",
   "affiliation": "Wandering Heroine",
   "rarity": 5,

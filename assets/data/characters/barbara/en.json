@@ -1,7 +1,9 @@
 {
   "name": "Barbara",
+  "title": "Shining Idol",
   "vision": "Hydro",
   "weapon": "Catalyst",
+  "gender": "Female",
   "nation": "Mondstadt",
   "affiliation": "Church of Favonius",
   "rarity": 4,

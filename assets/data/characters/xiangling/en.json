@@ -1,7 +1,9 @@
 {
   "name": "Xiangling",
+  "title": "Exquisite Delicacy",
   "vision": "Pyro",
   "weapon": "Polearm",
+  "gender": "Female",
   "nation": "Liyue",
   "affiliation": "Wanmin Restaurant",
   "rarity": 4,

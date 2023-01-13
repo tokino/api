@@ -1,7 +1,9 @@
 {
   "name": "Jean",
+  "title": "Dandelion Knight",
   "vision": "Anemo",
   "weapon": "Sword",
+  "gender": "Female",
   "nation": "Mondstadt",
   "affiliation": "Knights of Favonius",
   "rarity": 5,

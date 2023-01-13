@@ -1,7 +1,9 @@
 {
   "name": "Raiden Shogun",
+  "title": "Plane of Euthymia",
   "vision": "Electro",
   "weapon": "Polearm",
+  "gender": "Female",
   "nation": "Inazuma",
   "affiliation": "Inazuma City",
   "rarity": 5,

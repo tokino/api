@@ -1,7 +1,9 @@
 {
   "name": "Mona",
+  "title": "Astral Reflection",
   "vision": "Hydro",
   "weapon": "Catalyst",
+  "gender": "Female",
   "nation": "Mondstadt",
   "affiliation": "Mondstadt",
   "rarity": 5,

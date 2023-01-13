@@ -1,7 +1,9 @@
 {
   "name": "Razor",
+  "title": "Wolf Boy",
   "vision": "Electro",
   "weapon": "Claymore",
+  "gender": "Male",
   "nation": "Mondstadt",
   "affiliation": "Wolvendom",
   "rarity": 4,
